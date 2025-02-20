@@ -1,4 +1,4 @@
 ##zad3
-poleKola <- function(r){
+pole_kola <- function(r){
   pi * r^2
 }
