@@ -1,0 +1,5 @@
+##zad1
+kostka <- function(n){
+  sample(1:6, size=n, replace=TRUE)
+}
+
