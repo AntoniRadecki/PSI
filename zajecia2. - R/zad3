@@ -1,5 +1,10 @@
-KOLEJNOSC:
+ODPOWIEDZ:
 
+Priorytety w poszczegolnych przemowieniach sie roznia. 
+W 2021 Biden najwieksza uwage skupil na odbudowie po pandemii, inwestycjach w edukacje, wsparcie rodzin.
+Naromiast, w 2024, prezydent skupil sie na obronie demokracji, polityce zagranicznej i prawach obywatelskich.
+
+KOLEJNOSC KODU:
 
 # Tworzenie chmury słów za pomocą pakietu wordcloud
 install.packages("wordcloud")
